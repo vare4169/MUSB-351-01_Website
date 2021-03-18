@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   for release on physical mediums.
 baseurl: "MUSB-351-01_Website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: _ethics_committee_
 github_username:  vare4169
 
 # Build settings
