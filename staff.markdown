@@ -5,7 +5,7 @@ permalink: /staff/
 ---
 
 ### **Henry**
-#Mastering Engineer
+# Mastering Engineer
 
 ### **Eleanor**
-#Mixing Engineer
+# Mixing Engineer
