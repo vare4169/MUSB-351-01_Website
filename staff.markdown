@@ -4,6 +4,6 @@ title: "Staff"
 permalink: /staff/
 ---
 
-### Henry
+### **Henry**
 
-### Eleanor
+### **Eleanor**
