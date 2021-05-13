@@ -9,4 +9,9 @@ of audio recording and mastering. RRT has a top of the line recording studio
 that features analogue and digital signal paths with a mix of new and vintage
 equipment from the likes of Focusrite, Pultec, Rupert Neve, EMI, etc.
 RRT also has a Scully lathe as well as Studer A80 1/2 inch and 1/4 inch tape
-machines. 
+machines.
+
+Booking & Inquiries:
+vare4169@fredonia.edu
+
+Please note that this is a fictional business. 

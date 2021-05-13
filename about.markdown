@@ -10,3 +10,5 @@ media for release on physical mediums.
 Located on 1234 street, Rochester NY.
 
 Founded 2021
+
+Please note that this is a fictional business
